@@ -1,0 +1,4 @@
+Question 3)
+Let a, b be any integers and let m be a positive integer. Let d = gcd(a, m). If d does not evenly divide  b then the linear congruence ax + b = 0 (mod m) has no solutions. If d | b then the linear congruence ax + b = 0 (mod m) has exactly d solutions, where by “solution” we mean a congruence class mod m.
+
+In 2a N is coprime to A as the greatest common denominator between N and A is 1. x must be in the range of N and since A and N are coprime, A must be in (Zn)* as this contains all the copime elements in the range N. This also means that the linear concurrence ax + b =  0 (mod m) has a unique solution. In 2b a and n are both even and the greatest common denominator is 2 which means that the linear concurrence has 2 solutions in Zn, there is no unique solution. This also means a and n are not coprime, and as such a is not in (Zn)* and so its inversion is undefined for n Hence the null value produced for this input.
